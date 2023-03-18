@@ -1,0 +1,19 @@
+{
+    "name": "evan-duncan/next.php",
+    "description": "A PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Next": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evan Duncan",
+            "email": "evan.e.duncan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
